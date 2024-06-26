@@ -3,9 +3,6 @@ process the data
 
 create an avtar for user
 
-<<<<<<< HEAD
-changes 1
-cvhanges 2
-=======
-changes 1
->>>>>>> c2964a3 (changes in the main)
+
+changes 2 add to jee database
+
