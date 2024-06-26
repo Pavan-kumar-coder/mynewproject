@@ -4,5 +4,5 @@ process the data
 create an avtar for user
 
 
-changes 2 add to jee database
+changes 2 add to my database
 
